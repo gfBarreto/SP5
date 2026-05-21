@@ -48,11 +48,19 @@
     "entries": [
       {
         "phases": {
-          "2": 45
+          "2": 44
         },
-        "temp_bucket": 2,
-        "timestamp": 1777988642,
-        "total": 109
+        "temp_bucket": 1,
+        "timestamp": 1778172355,
+        "total": 115
+      },
+      {
+        "phases": {
+          "2": 100
+        },
+        "temp_bucket": 1,
+        "timestamp": 1779361116,
+        "total": 121
       },
       {
         "phases": {
@@ -128,19 +136,11 @@
       },
       {
         "phases": {
-          "2": 44
+          "2": 40
         },
-        "temp_bucket": 1,
-        "timestamp": 1778172355,
-        "total": 115
-      },
-      {
-        "phases": {
-          "2": 100
-        },
-        "temp_bucket": 1,
-        "timestamp": 1779361116,
-        "total": 121
+        "temp_bucket": 2,
+        "timestamp": 1779361478,
+        "total": 53
       }
     ]
   },
@@ -300,7 +300,7 @@
             "temperature_sensor Robin_Nano",
             "temperature_sensor BTT_PI"
           ],
-          "timestamp": "2026-05-21T11:01:28Z"
+          "timestamp": "2026-05-21T14:47:33Z"
         },
         "optional": []
       },
@@ -750,7 +750,7 @@
         "heat_rate": 0.7190567851066589
       },
       "heater_bed": {
-        "heat_rate": 6.3774027824401855
+        "heat_rate": 7.054562091827393
       }
     }
   },
