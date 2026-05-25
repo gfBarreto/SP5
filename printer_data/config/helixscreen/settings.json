@@ -3,7 +3,7 @@
   "appearance": {
     "toolhead_style": 5
   },
-  "config_version": 17,
+  "config_version": 16,
   "dark_mode": true,
   "display": {
     "animations_enabled": true,
