@@ -48,6 +48,46 @@
     "entries": [
       {
         "phases": {
+          "2": 25
+        },
+        "temp_bucket": 1,
+        "timestamp": 1779894501,
+        "total": 105
+      },
+      {
+        "phases": {
+          "2": 39
+        },
+        "temp_bucket": 1,
+        "timestamp": 1779964959,
+        "total": 116
+      },
+      {
+        "phases": {
+          "2": 17
+        },
+        "temp_bucket": 1,
+        "timestamp": 1779988126,
+        "total": 91
+      },
+      {
+        "phases": {
+          "2": 44
+        },
+        "temp_bucket": 1,
+        "timestamp": 1780328682,
+        "total": 121
+      },
+      {
+        "phases": {
+          "2": 23
+        },
+        "temp_bucket": 1,
+        "timestamp": 1780407330,
+        "total": 96
+      },
+      {
+        "phases": {
           "2": 27
         },
         "temp_bucket": 2,
@@ -120,51 +160,11 @@
       },
       {
         "phases": {
-          "2": 27
+          "2": 61
         },
-        "temp_bucket": 1,
-        "timestamp": 1779703227,
-        "total": 102
-      },
-      {
-        "phases": {
-          "2": 25
-        },
-        "temp_bucket": 1,
-        "timestamp": 1779894501,
-        "total": 105
-      },
-      {
-        "phases": {
-          "2": 39
-        },
-        "temp_bucket": 1,
-        "timestamp": 1779964959,
-        "total": 116
-      },
-      {
-        "phases": {
-          "2": 17
-        },
-        "temp_bucket": 1,
-        "timestamp": 1779988126,
-        "total": 91
-      },
-      {
-        "phases": {
-          "2": 44
-        },
-        "temp_bucket": 1,
-        "timestamp": 1780328682,
-        "total": 121
-      },
-      {
-        "phases": {
-          "2": 23
-        },
-        "temp_bucket": 1,
-        "timestamp": 1780407330,
-        "total": 96
+        "temp_bucket": 2,
+        "timestamp": 1780501780,
+        "total": 119
       }
     ]
   },
@@ -771,7 +771,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.702811598777771
+        "heat_rate": 0.36295756697654724
       },
       "heater_bed": {
         "heat_rate": 6.373987674713135
