@@ -3,7 +3,7 @@
   "appearance": {
     "toolhead_style": 5
   },
-  "config_version": 17,
+  "config_version": 19,
   "dark_mode": true,
   "display": {
     "animations_enabled": true,
@@ -12,6 +12,7 @@
     "dim_sec": 600,
     "drm_device": "",
     "gcode_render_mode": 2,
+    "gpu_3d_blocked": false,
     "screensaver_type": 0,
     "sleep_sec": 1200,
     "time_format": 1,
@@ -29,6 +30,7 @@
       "d": 0.0,
       "e": 1.0,
       "f": 0.0,
+      "recheck_pending": false,
       "valid": false
     },
     "jitter_threshold": 5,
