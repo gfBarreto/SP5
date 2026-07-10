@@ -40,6 +40,9 @@
   },
   "language": "pt",
   "led": {
+    "auto_state": {
+      "enabled": null
+    },
     "selected_strips": null
   },
   "log_path": "/tmp/helixscreen.log",
@@ -326,7 +329,7 @@
             "temperature_sensor Robin_Nano",
             "temperature_sensor BTT_PI"
           ],
-          "timestamp": "2026-07-10T11:32:43Z"
+          "timestamp": "2026-07-10T11:37:31Z"
         },
         "optional": []
       },
