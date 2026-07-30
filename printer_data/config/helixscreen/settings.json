@@ -3,7 +3,7 @@
   "appearance": {
     "toolhead_style": 5
   },
-  "config_version": 19,
+  "config_version": 20,
   "dark_mode": true,
   "display": {
     "animations_enabled": true,
@@ -13,6 +13,7 @@
     "drm_device": "",
     "gcode_render_mode": 2,
     "gpu_3d_blocked": false,
+    "gpu_blur_blocked": false,
     "screensaver_type": 0,
     "sleep_sec": 1200,
     "time_format": 1,
@@ -39,12 +40,6 @@
     "touch_device": ""
   },
   "language": "pt",
-  "led": {
-    "auto_state": {
-      "enabled": null
-    },
-    "selected_strips": null
-  },
   "log_path": "/tmp/helixscreen.log",
   "motion": {
     "jog_mode": 2
@@ -753,9 +748,7 @@
       },
       "printer_image": "shipped:generic-corexy",
       "printer_name": "sp5",
-      "probe_sensors": {
-        "sensors": null
-      },
+      "probe_sensors": {},
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
