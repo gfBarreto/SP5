@@ -88,14 +88,6 @@
       },
       {
         "phases": {
-          "2": 26
-        },
-        "temp_bucket": 2,
-        "timestamp": 1780752389,
-        "total": 97
-      },
-      {
-        "phases": {
           "2": 76
         },
         "temp_bucket": 2,
@@ -165,6 +157,14 @@
         "temp_bucket": 2,
         "timestamp": 1785436398,
         "total": 93
+      },
+      {
+        "phases": {
+          "2": 41
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785440350,
+        "total": 56
       }
     ]
   },
@@ -324,7 +324,7 @@
             "temperature_sensor Robin_Nano",
             "temperature_sensor BTT_PI"
           ],
-          "timestamp": "2026-07-30T19:23:12Z"
+          "timestamp": "2026-07-30T19:40:08Z"
         },
         "optional": []
       },
