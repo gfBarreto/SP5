@@ -48,6 +48,46 @@
     "entries": [
       {
         "phases": {
+          "2": 45
+        },
+        "temp_bucket": 1,
+        "timestamp": 1780744893,
+        "total": 120
+      },
+      {
+        "phases": {
+          "2": 26
+        },
+        "temp_bucket": 1,
+        "timestamp": 1780757055,
+        "total": 99
+      },
+      {
+        "phases": {
+          "2": 316
+        },
+        "temp_bucket": 1,
+        "timestamp": 1781539754,
+        "total": 338
+      },
+      {
+        "phases": {
+          "2": 26
+        },
+        "temp_bucket": 1,
+        "timestamp": 1781552032,
+        "total": 100
+      },
+      {
+        "phases": {
+          "2": 26
+        },
+        "temp_bucket": 1,
+        "timestamp": 1785422093,
+        "total": 102
+      },
+      {
+        "phases": {
           "2": 55
         },
         "temp_bucket": 2,
@@ -112,59 +152,19 @@
       },
       {
         "phases": {
-          "2": 44
+          "2": 16
         },
-        "temp_bucket": 1,
-        "timestamp": 1780328682,
-        "total": 121
+        "temp_bucket": 2,
+        "timestamp": 1785424336,
+        "total": 88
       },
       {
         "phases": {
-          "2": 23
+          "2": 16
         },
-        "temp_bucket": 1,
-        "timestamp": 1780407330,
-        "total": 96
-      },
-      {
-        "phases": {
-          "2": 45
-        },
-        "temp_bucket": 1,
-        "timestamp": 1780744893,
-        "total": 120
-      },
-      {
-        "phases": {
-          "2": 26
-        },
-        "temp_bucket": 1,
-        "timestamp": 1780757055,
-        "total": 99
-      },
-      {
-        "phases": {
-          "2": 316
-        },
-        "temp_bucket": 1,
-        "timestamp": 1781539754,
-        "total": 338
-      },
-      {
-        "phases": {
-          "2": 26
-        },
-        "temp_bucket": 1,
-        "timestamp": 1781552032,
-        "total": 100
-      },
-      {
-        "phases": {
-          "2": 26
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785422093,
-        "total": 102
+        "temp_bucket": 2,
+        "timestamp": 1785427906,
+        "total": 92
       }
     ]
   },
@@ -324,7 +324,7 @@
             "temperature_sensor Robin_Nano",
             "temperature_sensor BTT_PI"
           ],
-          "timestamp": "2026-07-30T13:55:15Z"
+          "timestamp": "2026-07-30T17:16:56Z"
         },
         "optional": []
       },
@@ -769,10 +769,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.609272301197052
+        "heat_rate": 0.6068929433822632
       },
       "heater_bed": {
-        "heat_rate": 5.157382488250732
+        "heat_rate": 8.853751182556152
       }
     }
   },
