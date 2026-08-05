@@ -91,14 +91,6 @@
           "2": 23
         },
         "temp_bucket": 2,
-        "timestamp": 1785440591,
-        "total": 85
-      },
-      {
-        "phases": {
-          "2": 23
-        },
-        "temp_bucket": 2,
         "timestamp": 1785444262,
         "total": 99
       },
@@ -165,6 +157,14 @@
         "temp_bucket": 2,
         "timestamp": 1785961002,
         "total": 90
+      },
+      {
+        "phases": {
+          "2": 5
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785964591,
+        "total": 81
       }
     ]
   },
@@ -324,7 +324,7 @@
             "temperature_sensor Robin_Nano",
             "temperature_sensor BTT_PI"
           ],
-          "timestamp": "2026-08-05T21:15:02Z"
+          "timestamp": "2026-08-05T21:33:52Z"
         },
         "optional": []
       },
@@ -769,10 +769,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.5804064273834229
+        "heat_rate": 0.6380060911178589
       },
       "heater_bed": {
-        "heat_rate": 7.534082412719727
+        "heat_rate": 8.29820442199707
       }
     }
   },
