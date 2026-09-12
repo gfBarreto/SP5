@@ -289,7 +289,8 @@
           "heater_fan fan_extruder",
           "neopixel leds",
           "filament_switch_sensor extruder_sensor",
-          "mmu"
+          "mmu",
+          "filament_switch_sensor default:extruder"
         ],
         "last_snapshot": {
           "fans": [
