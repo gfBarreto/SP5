@@ -308,6 +308,7 @@
             "filament_switch_sensor mmu_entry_6",
             "filament_switch_sensor mmu_entry_7",
             "filament_switch_sensor mmu_entry_8",
+            "filament_switch_sensor unit0:mmu_shared_exit",
             "filament_switch_sensor unit0:encoder"
           ],
           "heaters": [
@@ -326,7 +327,7 @@
             "temperature_sensor Robin_Nano",
             "temperature_sensor BTT_PI"
           ],
-          "timestamp": "2026-09-19T17:20:59Z"
+          "timestamp": "2026-09-19T18:01:51Z"
         },
         "optional": []
       },
