@@ -298,7 +298,7 @@
             "heater_fan fan_extruder"
           ],
           "filament_sensors": [
-            "filament_switch_sensor default:extruder",
+            "filament_switch_sensor extruder",
             "filament_switch_sensor mmu_entry_0",
             "filament_switch_sensor mmu_entry_1",
             "filament_switch_sensor mmu_entry_2",
@@ -308,8 +308,8 @@
             "filament_switch_sensor mmu_entry_6",
             "filament_switch_sensor mmu_entry_7",
             "filament_switch_sensor mmu_entry_8",
-            "filament_switch_sensor unit0:mmu_shared_exit",
-            "filament_switch_sensor unit0:encoder"
+            "filament_switch_sensor mmu_shared_exit",
+            "filament_switch_sensor encoder"
           ],
           "heaters": [
             "heater_bed",
@@ -320,14 +320,14 @@
             "neopixel leds"
           ],
           "sensors": [
-            "temperature_sensor unit0_mcu",
+            "temperature_sensor _unit0_mcu",
             "temperature_sensor EBBCan",
             "temperature_sensor camara_temp",
             "temperature_sensor carcaca_temp",
             "temperature_sensor Robin_Nano",
             "temperature_sensor BTT_PI"
           ],
-          "timestamp": "2026-10-20T16:15:14Z"
+          "timestamp": "2026-10-20T16:39:13Z"
         },
         "optional": []
       },
